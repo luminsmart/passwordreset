@@ -83,7 +83,7 @@ import (
 	"encoding/base64"
 	"encoding/binary"
 	"errors"
-	"github.com/dchest/authcookie"
+	"github.com/luminsmart/authcookie"
 	"time"
 )
 
